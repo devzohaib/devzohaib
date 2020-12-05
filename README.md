@@ -24,11 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Machine Learning Process](https://medium.com/@devzohaib/the-machine-learning-process-3f6bc51965ac?source=rss-748191508273------2)
 - [Machine Learning | Why We Love it ?](https://medium.com/analytics-vidhya/machine-learning-why-we-love-it-802bdc74ef69?source=rss-748191508273------2)
 - [Visual Exploratory Data Analysis | Pandas Foundation | Part 1](https://medium.com/swlh/visual-exploratory-data-analysis-pandas-foundation-part-1-1c083cf3e567?source=rss-748191508273------2)
 - [Review of Pandas DataFrame|beginner introduction](https://medium.com/@devzohaib/review-of-pandas-dataframe-beginner-introduction-427af56e43ae?source=rss-748191508273------2)
 - [How to remember everything when learning to CODE?](https://medium.com/@devzohaib/how-to-remember-everything-when-learning-to-code-39279ce3b823?source=rss-748191508273------2)
-- [How To Save & Load Trained ML Model](https://medium.com/@devzohaib/how-to-save-load-trained-ml-model-19dba1c1ba47?source=rss-748191508273------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
