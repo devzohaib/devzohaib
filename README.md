@@ -25,7 +25,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Logistic Regression using glm() in R](https://medium.com/@devzohaib/logistic-regression-using-glm-in-r-a6b353520631?source=rss-748191508273------2)
-- [Dimensionality Reduction Using Features Extractions](https://medium.com/datadriveninvestor/dimensionality-reduction-using-features-extractions-a9fcb9de4e27?source=rss-748191508273------2)
+- [Dimensionality Reduction Using Features Extractions](https://medium.datadriveninvestor.com/dimensionality-reduction-using-features-extractions-a9fcb9de4e27?source=rss-748191508273------2)
 - [The Machine Learning Process](https://medium.com/swlh/the-machine-learning-process-3f6bc51965ac?source=rss-748191508273------2)
 - [Machine Learning | Why We Love it ?](https://medium.com/analytics-vidhya/machine-learning-why-we-love-it-802bdc74ef69?source=rss-748191508273------2)
 - [Visual Exploratory Data Analysis | Pandas Foundation | Part 1](https://medium.com/swlh/visual-exploratory-data-analysis-pandas-foundation-part-1-1c083cf3e567?source=rss-748191508273------2)
