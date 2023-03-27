@@ -1,11 +1,5 @@
-### Hi there, I'm Zohaib - 👋
+👋 Hi there! I'm a Data Scientist at Afiniti, currently working in Pakistan. I'm passionate about using data-driven techniques to uncover hidden patterns and insights that help organizations make better decisions.
 
-## I'm a Data Science Enthusiastic, Developer, and Blog Writer!!
+📊 My expertise lies in machine learning, statistical modeling, and data visualization. I enjoy working with Python, R, SQL, and various data analytics tools to solve complex problems and create actionable insights.
 
-- 🔭 I Started my Master in Data Science at UMT🤣 
-- 🌱 I’m currently  learning ML,DL & NLP 
-- 🥅 2022 Goals: Apart from Data Science also Learning about Quantum Computing 
-- ⚡ Fun fact: I love to read about new frontier of ML/AI.
-
-
-
+🔍 At Afiniti, I work on analyzing large datasets, developing predictive models, and implementing AI algorithms to optimize customer interactions and improve overall business performance.
